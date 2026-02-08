@@ -1,5 +1,0 @@
-[
-  {"id":1,"title":"Modern Family House","address":"123 Maple St, Austin, TX","price":"$550,000","bedrooms":4,"bathrooms":3,"image":"https://source.unsplash.com/random/800x600?house","description":"A beautiful modern family home with open floor plan and spacious backyard."},
-  {"id":2,"title":"Downtown Condo","address":"45 5th Ave, New York, NY","price":"$1,200,000","bedrooms":2,"bathrooms":2,"image":"https://source.unsplash.com/random/800x600?condo","description":"Luxurious condo in the heart of the city with skyline views."},
-  {"id":3,"title":"Cozy Cottage","address":"9 Country Ln, Asheville, NC","price":"$320,000","bedrooms":3,"bathrooms":2,"image":"https://source.unsplash.com/random/800x600?cottage","description":"Charming cottage surrounded by nature, perfect for a peaceful retreat."}
-]
