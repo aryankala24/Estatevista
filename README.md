@@ -21,7 +21,9 @@ Tailwind CSS
 JavaScript
 
 🚀** Getting Started**
+
 npm install
+
 npm start
 
 📌 **Purpose**
